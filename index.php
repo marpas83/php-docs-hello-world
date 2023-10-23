@@ -2,7 +2,6 @@
 
 //echo "Hello World!";
 
-<?php
 $slowa = Array(
   'minus',
 
@@ -197,4 +196,4 @@ echo slownie($zloty)." złotych";
 echo " ";
 echo slownie($grosze). " groszy";
 
-?>
+
